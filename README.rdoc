@@ -1,6 +1,6 @@
 =chess
 
-This is the Chess app that won first prize back in 2005 for the {OBEA Computer Programming Contest}[http://www.obea.ca/contests_winners_2005.htm] by Arwid (Arvydas) Bancewicz.
+This is the Chess app that won first prize back in 2005 for the {OBEA Computer Programming Contest}[http://www.obea.ca/contests_winners_2005.htm] by Arwid (Arvydas) Bancewicz at age 17.
 
 == Highlights
 * {algorithms/}[http://github.com/Arwid/chess/tree/master/source/chess/algorithms]
@@ -22,9 +22,9 @@ This is the Chess app that won first prize back in 2005 for the {OBEA Computer P
 * {properties/}[http://github.com/Arwid/chess/tree/master/source/chess/properties]
 
 == References
-* https://sourceforge.net/projects/aichess
-* http://mac.softpedia.com/get/Games/Bancewicz-Chess.shtml
-* http://mac.softpedia.com/get/Games/Arvydas-Chess.shtml
+* https://sourceforge.net/projects/aichess (105 downloads before Feb 7 2011)
+* http://mac.softpedia.com/get/Games/Arvydas-Chess.shtml (102 downloads before Feb 7 2011)
+* http://mac.softpedia.com/get/Games/Bancewicz-Chess.shtml (77 downloads before Feb 7 2011)
 
 == Copyright
 
