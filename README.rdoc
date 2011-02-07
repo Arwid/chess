@@ -11,9 +11,9 @@ This is the Chess app that won first prize back in 2005 for the {OBEA Computer P
   * {MoveAlgorithm (SuperClass)}[http://github.com/Arwid/chess/blob/master/source/chess/algorithms/MoveAlgorithm.java]
 * {core/}[http://github.com/Arwid/chess/tree/master/source/chess/core]
 * {gui/}[http://github.com/Arwid/chess/tree/master/source/chess/gui]
-  * {board/}
-  * {lookAndFeel/}
-  * {panels/}
+  * {board/}[http://github.com/Arwid/chess/tree/master/source/chess/gui/board]
+  * {lookAndFeel/}[http://github.com/Arwid/chess/tree/master/source/chess/gui/lookAndFeel]
+  * {panels/}[http://github.com/Arwid/chess/tree/master/source/chess/gui/panels]
 * {media/}[http://github.com/Arwid/chess/tree/master/source/chess/media]
   * {images/}[http://github.com/Arwid/chess/tree/master/source/chess/media/images]
   * {sound/}[http://github.com/Arwid/chess/tree/master/source/chess/media/sound]
