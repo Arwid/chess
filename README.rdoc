@@ -11,15 +11,15 @@ This is the Chess app that won first prize back in 2005 for the {OBEA Computer P
 Extracted from javadoc.
 * {algorithms/}[http://github.com/Arwid/chess/tree/master/source/chess/algorithms]
   * {MiniMax}[http://github.com/Arwid/chess/blob/master/source/chess/algorithms/MiniMax.java]
-    MiniMax, a subclass of MoveAlgorithm, is a MiniMax search algorithm. The minimax strategy serves as the foundation of chess programs. It is a strategy that minimizes the maximum risk for a player, going through all of the branches in the move tree and evaluating the board position.
+    <em>serves as the foundation of chess programs. It is a strategy that minimizes the maximum risk for a player, going through all of the branches in the move tree and evaluating the board position.</em>
   * {AlfaBeta}[http://github.com/Arwid/chess/blob/master/source/chess/algorithms/AlfaBeta.java]
-    AlfaBeta, a subclass of MoveAlgorithm, is an alfabeta search algorithm. This technique is called "alfa-beta pruning". It is a refined minimax strategy that identifies unfavorable branches in the move tree and removes them early, thus speeding up the search process.
+     <em>is a refined minimax strategy that identifies unfavorable branches in the move tree and removes them early, thus speeding up the search process. This technique is called "alfa-beta pruning". </em>
   * {NegaScout}[http://github.com/Arwid/chess/blob/master/source/chess/algorithms/NegaScout.java]
+     <em>is a variation of the "alfa-beta pruning" technique.</em>
   * {PrincipalVariation}[http://github.com/Arwid/chess/blob/master/source/chess/algorithms/PrincipalVariation.java]
-    NegaScout, a subclass of MoveAlgorithm, is a negascout search algorithm. It is a variation of the "alfa-beta pruning" technique.
-    PrincipalVariation, a subclass of MoveAlgorithm, is a principalvariation search algorithm. Principal variation search is a variation of alpha-beta search where all nodes outside the principal variation are searched with a minimal window beta = alpha + 1. The idea is that with perfect move ordering all moves outside the principal variation will be worse than the principal variation.
+     <em>is a variation of alpha-beta search where all nodes outside the principal variation are searched with a minimal window beta = alpha + 1. The idea is that with perfect move ordering all moves outside the principal variation will be worse than the principal variation.</em>
   * {MoveAlgorithm (SuperClass)}[http://github.com/Arwid/chess/blob/master/source/chess/algorithms/MoveAlgorithm.java]
-    MoveAlgorithm is a super class for search algorithms. It consists of all the required utilities defining a playable chess game, such as: move definitions, composing moves from move definitions, applying board position circumstances to the move definition (eg. a piece cannot move to put it's king in check), composing lists of possible moves, and board evaluations based on piece and position costs.
+    <em>is the super class for the search algorithms. It consists of all the required utilities defining a playable chess game, such as: move definitions, composing moves from move definitions, applying board position circumstances to the move definition (eg. a piece cannot move to put it's king in check), composing lists of possible moves, and board evaluations based on piece and position costs.</em>
 * {core/}[http://github.com/Arwid/chess/tree/master/source/chess/core]
 * {gui/}[http://github.com/Arwid/chess/tree/master/source/chess/gui]
   * {board/}[http://github.com/Arwid/chess/tree/master/source/chess/gui/board]
