@@ -1,0 +1,19 @@
+[Event "?"]
+[Site "FICS"]
+[Date "2005.04.27"]
+[Round "?"]
+[White "alfagonzalo"]
+[Black "FidelCastro"]
+[Result "*"]
+[WhiteElo "1735"]
+[BlackElo "1606"]
+[:Time "2"]
+[:Increment "12"]
+[:Rated "true"]
+[:Type "blitz"]
+[:OpeningId "375"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Bg4 5. Be2 e6 6. O-O Be7 7. c4 Nb6 8. h3 Bh5 9. Nc3 O-O 10. Be3 N8d7 11. exd6 cxd6 12. b3 Rc8 13. Qd2 Re8 14. Rad1 a6 15. a4 Nf6 *
+
+ 
+

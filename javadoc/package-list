@@ -1,0 +1,12 @@
+chess
+chess.algorithms
+chess.core
+chess.gui
+chess.gui.board
+chess.gui.lookAndFeel
+chess.gui.panels
+chess.gui.window
+chess.media
+chess.network
+chess.online
+chess.properties
