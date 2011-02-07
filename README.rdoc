@@ -1,0 +1,13 @@
+=chess
+
+This is the Chess app that won first prize back in 2005 for the OBEA Computer Programming Contest (http://www.obea.ca/contests_winners_2005.htm) by Arwid (Arvydas) Bancewicz.
+
+== References
+https://sourceforge.net/projects/aichess/
+http://mac.softpedia.com/get/Games/Bancewicz-Chess.shtml
+http://mac.softpedia.com/get/Games/Arvydas-Chess.shtml
+
+== Copyright
+
+GNU GENERAL PUBLIC LICENSE Version 2, June 1991
+See source/chess/GNULicence.txt for details.
