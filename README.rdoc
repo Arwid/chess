@@ -28,6 +28,8 @@ This is the Chess app that won first prize back in 2005 for the {OBEA Computer P
 
 == Copyright
 
+Copyright © 2005 Arwid (Arvydas) Bancewicz
+
 GNU GENERAL PUBLIC LICENSE Version 2, June 1991.
 
 See {source/chess/GNULicence.txt}[http://github.com/Arwid/chess/blob/master/source/chess/GNULicence.txt] for details.
