@@ -2,6 +2,25 @@
 
 This is the Chess app that won first prize back in 2005 for the {OBEA Computer Programming Contest}[http://www.obea.ca/contests_winners_2005.htm] by Arwid (Arvydas) Bancewicz.
 
+== Highlights
+* {algorithms/}[http://github.com/Arwid/chess/tree/master/source/chess/algorithms]
+** {MiniMax}[http://github.com/Arwid/chess/blob/master/source/chess/algorithms/MiniMax.java]
+** {AlfaBeta}[http://github.com/Arwid/chess/blob/master/source/chess/algorithms/AlfaBeta.java]
+** {NegaScout}[http://github.com/Arwid/chess/blob/master/source/chess/algorithms/NegaScout.java]
+** {PrincipalVariation}[http://github.com/Arwid/chess/blob/master/source/chess/algorithms/PrincipalVariation.java]
+** {MoveAlgorithm (SuperClass)}[http://github.com/Arwid/chess/blob/master/source/chess/algorithms/MoveAlgorithm.java]
+* {core/}[http://github.com/Arwid/chess/tree/master/source/chess/core]
+* {gui/}[http://github.com/Arwid/chess/tree/master/source/chess/gui]
+** {board/}
+** {lookAndFeel/}
+** {panels/}
+* {media/}[http://github.com/Arwid/chess/tree/master/source/chess/media]
+** {images/}[http://github.com/Arwid/chess/tree/master/source/chess/media/images]
+** {sound/}[http://github.com/Arwid/chess/tree/master/source/chess/media/sound]
+* {network/}[http://github.com/Arwid/chess/tree/master/source/chess/network]
+* {online/}[http://github.com/Arwid/chess/tree/master/source/chess/online]
+* {properties/}[http://github.com/Arwid/chess/tree/master/source/chess/properties]
+
 == References
 * https://sourceforge.net/projects/aichess
 * http://mac.softpedia.com/get/Games/Bancewicz-Chess.shtml
