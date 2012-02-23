@@ -3,9 +3,9 @@
 This is the Chess app that won first prize back in 2005 for the {OBEA Computer Programming Contest}[http://www.obea.ca/contests_winners_2005.htm] by Arwid (Arvydas) Bancewicz at age 17.
 
 == References
-* https://sourceforge.net/projects/aichess (236 downloads before Feb 23 2012)
-* http://mac.softpedia.com/get/Games/Arvydas-Chess.shtml (224 downloads before Feb 7 2011)
-* http://mac.softpedia.com/get/Games/Bancewicz-Chess.shtml (204 downloads before Feb 7 2011)
+* https://sourceforge.net/projects/aichess (236 downloads as of Feb 23 2012)
+* http://mac.softpedia.com/get/Games/Arvydas-Chess.shtml (224 downloads as of Feb 23 2012)
+* http://mac.softpedia.com/get/Games/Bancewicz-Chess.shtml (204 downloads as of Feb 23 2012)
 
 == Highlights
 Extracted from javadoc.
